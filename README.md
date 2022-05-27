@@ -48,6 +48,7 @@ The interface used is an Audient ID 14.
 Heres is an ilustration of the gear used:
 
 ![Gear Used](https://i.ibb.co/jrNVLsS/Pedales.jpg)
+![Gear Used](https://i.ibb.co/PYHPyGP/Guitarra.jpg)
 
 
 

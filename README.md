@@ -60,3 +60,5 @@ The relations of the audio currently recorded can be seen here:
 
 
 <iframe src="https://docs.google.com/spreadsheets/d/18XRDFhlTCr_tPlikjZ1wQdlvKLkLAYCD/edit?usp=sharing&ouid=104576609693167581701&rtpof=true&sd=true" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1280px" allowfullscreen></iframe>
+
+<iframe src="visual_pca_database.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="800px" width="1280px" allowfullscreen></iframe>
